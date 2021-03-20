@@ -1,0 +1,14 @@
+API key:
+
+FnfYfnja6kbGJBYR730OBz7PK
+
+copy-light
+API key secret:
+
+nt6aZAMiscfSb9NsoaYBETzEC5BLqcYJk6ubjJeynoJngoOS31
+
+Access token:
+14247644-ydcS2w89BWDVgOify6eOPv9tfE15usv2bSFUuodQP
+
+Access token secret:
+GTASRICorawkOh21Ec0PanYnw7bP4wK6WCpNIIrE01K6X
